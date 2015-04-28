@@ -900,4 +900,4 @@ Blaze.renderWithReact = function (template, container) {
       );
     });
   });
-}
+};
